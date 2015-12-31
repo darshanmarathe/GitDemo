@@ -1,0 +1,7 @@
+Git clone 
+
+git clone 'url'
+
+Check git status 
+
+git status

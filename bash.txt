@@ -1,0 +1,13 @@
+See All contents in directory
+
+ls -l
+
+Make dir 
+
+mkdir
+
+
+change directory
+
+cd 
+

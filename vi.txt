@@ -1,0 +1,11 @@
+Vi 
+
+To enable writing press (i) and start typing 
+
+to Save file 
+
+press (ESC)
+
+then type (:x)
+
+

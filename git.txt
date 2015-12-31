@@ -5,3 +5,12 @@ git clone 'url'
 Check git status 
 
 git status
+
+Add files to track
+
+git add . / git add -a
+
+Commiting a file 
+
+git commit -m "message"
+

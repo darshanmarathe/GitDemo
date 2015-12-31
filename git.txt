@@ -14,3 +14,4 @@ Commiting a file
 
 git commit -m "message"
 
+Commits on the local repoistory not the remote or main repository
